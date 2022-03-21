@@ -1,0 +1,1 @@
+{"carList":[{"Name":"Kalina","Mass":1000,"Capacity":5,"MaxSpeed":120,"Power":90},{"Name":"Kalina","Mass":1000,"Capacity":5,"MaxSpeed":120,"Power":90},{"Name":"Kalina","Mass":1000,"Capacity":5,"MaxSpeed":120,"Power":90},{"Name":"Kalina","Mass":1000,"Capacity":5,"MaxSpeed":120,"Power":90}]}
